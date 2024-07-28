@@ -1,3 +1,5 @@
+# [O projeto do MuriloucoLouco está bem mais avançado](https://github.com/MuriloucoLouco/thorvarium)
+
 # thorvarium-reversing-server
 
 A ideia aqui é estudar como o servidor funcionava para poder emular as respostas dele de acordo com o que o cliente esperava.
